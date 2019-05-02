@@ -39,7 +39,7 @@
   ],
   "details": [
     {
-      "id": 1,
+      "id": "1",
       "eventName": "hello",
       "date": "2018-05-14 14:30 am",
       "location": "01:20 pm",
@@ -49,7 +49,7 @@
       "artistNumber": "1"
     },
     {
-      "id": 2,
+      "id": "2",
       "eventName": "hei",
       "date": "2018-05-14 14:30 am",
       "location": "a location",
