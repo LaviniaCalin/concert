@@ -36,5 +36,29 @@
       "imgUrl": "01:20 pm",
       "description": "desc"    
     }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "eventName": "hello",
+      "date": "2018-05-14 14:30 am",
+      "location": "01:20 pm",
+      "location_adress": "ceva",
+      "lat": "45",
+      "long": "30",
+      "artistNumber": "1"
+    },
+    {
+      "id": 2,
+      "eventName": "hello",
+      "date": "2018-05-14 14:30 am",
+      "location": "01:20 pm",
+      "location_adress": "ceva",
+      "lat": "45",
+      "long": "30",
+      "artistNumber": "1"
+      
+    }
   ]
+  
 }
