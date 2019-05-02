@@ -46,7 +46,7 @@
       "location_adress": "ceva",
       "lat": "45",
       "lng": "30",
-      "artistNumber": "1"
+      "artistNumber": 1
     },
     {
       "id": "2",
@@ -56,7 +56,7 @@
       "location_adress": "ceva",
       "lat": "45",
       "lng": "30",
-      "artistNumber": "2"
+      "artistNumber": 2
       
     }
   ]
