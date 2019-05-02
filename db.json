@@ -45,7 +45,7 @@
       "location": "01:20 pm",
       "location_adress": "ceva",
       "lat": "45",
-      "long": "30",
+      "lng": "30",
       "artistNumber": "1"
     },
     {
@@ -55,8 +55,8 @@
       "location": "01:20 pm",
       "location_adress": "ceva",
       "lat": "45",
-      "long": "30",
-      "artistNumber": "1"
+      "lng": "30",
+      "artistNumber": "2"
       
     }
   ]
