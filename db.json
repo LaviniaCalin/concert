@@ -3,12 +3,62 @@
     {
       "id": 1,
       "name": "hello",
-      "image": "hello",
-      "startTime": "01:20pm",
-      "endTime": "01:50pm",
+      "image": "hello.jpg",
+      "startTime": "01:20 pm",
+      "endTime": "01:50 pm",
+      "day": "hello",
+      "description": "hello",
+      "playingInterval": ""
+    },
+    {
+      "id": 2,
+      "name": "hello",
+      "image": "hello.jpg",
+      "startTime": "01:20 pm",
+      "endTime": "01:50 pm",
       "day": "hello",
       "description": "hello",
       "playingInterval": ""
     }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "hello",
+      "date": "2018-05-14 14:30 am",
+      "imgUrl": "01:20 pm",
+      "description": "desc"      
+    },
+    {
+    "id": 2,
+      "title": "hello",
+      "date": "2018-05-14 14:30 am",
+      "imgUrl": "01:20 pm",
+      "description": "desc"    
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "eventName": "hello",
+      "date": "2018-05-14 14:30 am",
+      "location": "01:20pm",
+      "location_adress": "ceva",
+      "lat": "45",
+      "long": "30",
+      "artistNumber": "1"
+    },
+    {
+      "id": 2,
+      "eventName": "hello",
+      "date": "2018-05-14 14:30 am",
+      "location": "01:20pm",
+      "location_adress": "ceva",
+      "lat": "45",
+      "long": "30",
+      "artistNumber": "1"
+      
+    }
   ]
+  
 }
