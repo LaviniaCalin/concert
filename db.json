@@ -39,24 +39,24 @@
   ],
   "details": [
     {
-      "id": "1",
+      "id": 1,
       "eventName": "hello",
       "date": "2018-05-14 14:30 am",
       "location": "01:20 pm",
-      "location_adress": "ceva",
+      "locationAdress": "ceva",
       "lat": "45",
       "lng": "30",
-      "artistNumber": 1
+      "artistNumber": "1"
     },
     {
-      "id": "2",
-      "eventName": "hello",
+      "id": 2,
+      "eventName": "hei",
       "date": "2018-05-14 14:30 am",
-      "location": "01:20 pm",
-      "location_adress": "ceva",
+      "location": "a location",
+      "locationAdress": "ceva",
       "lat": "45",
       "lng": "30",
-      "artistNumber": 2
+      "artistNumber": "2"
       
     }
   ]
