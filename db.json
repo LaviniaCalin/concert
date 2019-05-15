@@ -2,58 +2,58 @@
   "artists": [
     {
       "id": 1,
-      "name": "hello",
+      "name": "Sia",
       "image": "hello.jpg",
       "startTime": "",
       "endTime": "",
-      "day": "hello",
-      "description": "hello",
+      "day": "13 July",
+      "description": "Sia",
       "playingInterval": ""
     },
     {
       "id": 2,
-      "name": "hello",
+      "name": "Justin",
       "image": "hello.jpg",
       "startTime": "",
       "endTime": "",
-      "day": "hello",
-      "description": "hello",
+      "day": "14 July",
+      "description": "Justin",
       "playingInterval": ""
     }
   ],
   "events": [
     {
       "id": 1,
-      "title": "hello",
-      "date": "2018-05-14 14:30 am",
+      "title": "Event 1",
+      "date": "2019-05-20 14:30 am",
       "imgUrl": "01:20 pm",
-      "description": "desc"      
+      "description": "description event 1"      
     },
     {
     "id": 2,
-      "title": "hello",
+      "title": "Event 2",
       "date": "2018-05-14 14:30 am",
       "imgUrl": "01:20 pm",
-      "description": "desc"    
+      "description": "description event 2"    
     }
   ],
   "details": [
     {
       "id": 1,
-      "eventName": "hello",
+      "eventName": "Event 1",
       "date": "2018-05-14 14:30 am",
-      "location": "01:20 pm",
-      "locationAdress": "ceva",
+      "location": "Poli",
+      "locationAdress": "splaiul indep",
       "lat": "45",
       "lng": "30",
       "artistNumber": "1"
     },
     {
       "id": 2,
-      "eventName": "hei",
+      "eventName": "Event 2",
       "date": "2018-05-14 14:30 am",
-      "location": "a location",
-      "locationAdress": "ceva",
+      "location": "Ase",
+      "locationAdress":"romana",
       "lat": "45",
       "lng": "30",
       "artistNumber": "2"
