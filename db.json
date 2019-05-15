@@ -4,8 +4,8 @@
       "id": 1,
       "name": "hello",
       "image": "hello.jpg",
-      "startTime": "01:20pm",
-      "endTime": "01:50pm",
+      "startTime": "01:20",
+      "endTime": "01:50",
       "day": "hello",
       "description": "hello",
       "playingInterval": ""
@@ -14,8 +14,8 @@
       "id": 2,
       "name": "hello",
       "image": "hello.jpg",
-      "startTime": "01:20pm",
-      "endTime": "01:50pm",
+      "startTime": "01:20",
+      "endTime": "01:50",
       "day": "hello",
       "description": "hello",
       "playingInterval": ""
