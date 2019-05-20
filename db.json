@@ -54,6 +54,18 @@
       "date": "2018-07-13 14:30 am",
       "imgUrl": "",
       "description": ""}
+  ],
+  "details":[
+    {"id":1,
+     "eventName":"Concert",
+     "date":"",
+     "location":"undeva",
+     "locationAdress":"politehnica",
+     "lat":"44.436331588",
+     "lng":"26.05083313",
+     "artistNumber":""
+     
+    }
   ]
   
 }
