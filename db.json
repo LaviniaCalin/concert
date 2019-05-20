@@ -55,7 +55,7 @@
       "imgUrl": "",
       "description": ""}
   ],
-  "details":[
+  "details":
     {"id":1,
      "eventName":"Concert",
      "date":"",
@@ -66,6 +66,6 @@
      "artistNumber":""
      
     }
-  ]
+  
   
 }
