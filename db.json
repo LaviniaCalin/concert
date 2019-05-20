@@ -54,18 +54,6 @@
       "date": "2018-07-13 14:30 am",
       "imgUrl": "",
       "description": ""}
-  ],
-  "details": [
-    {
-      "id": 1,
-      "eventName": "Event 1",
-      "date": "",
-      "location": "Poli",
-      "locationAdress": "splaiul indep",
-      "lat": "44.436331588",
-      "lng": "26.05083313",
-      "artistNumber": ""
-    }
   ]
   
 }
