@@ -45,22 +45,22 @@
     {
       "id": 1,
       "title": "Sia Kate Isobelle Furle",
-      "date": "2019-07-13 14:30 am",
+      "date": "2019-07-13 14:30 pm",
       "imgUrl": "",
       "description":""},
     {
     "id": 2,
       "title": "Justin Randall Timberlake",
-      "date": "2018-07-13 14:30 am",
+      "date": "2018-07-13 14:30 pm",
       "imgUrl": "",
       "description": ""}
   ],
 
   "details" :{"id":1,
-     "eventName":"Concert",
-     "date":"",
-     "location":"undeva",
-     "locationAdress":"politehnica",
+     "eventName":"Politehnica Festival",
+     "date":"2019-07-13 11:00 pm",
+     "location":"Politehnica University",
+     "locationAdress":" 290 Splaiul Indpendentei Street",
      "lat":"44.436331588",
      "lng":"26.05083313",
      "artistNumber":"4" }
