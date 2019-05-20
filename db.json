@@ -55,9 +55,7 @@
       "imgUrl": "",
       "description": ""}
   ]
-  
-}
-  details =
+  "details" :[{
     {"id":1,
      "eventName":"Concert",
      "date":"",
@@ -65,4 +63,8 @@
      "locationAdress":"politehnica",
      "lat":"44.436331588",
      "lng":"26.05083313",
-     "artistNumber":"" }
+     "artistNumber":"" }]
+
+  
+}
+  
