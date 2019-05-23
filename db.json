@@ -62,7 +62,9 @@
       "description": "You can have a great time even between performances! Politehnica Festival also offers guests a reacreation area. You cand find it on the left side of the stage, next to the parking lot. There are lounges and tables at your disposal in order to change opinios about the festival for you and your friends. "}
   ],
 
-  "details" :{"id":1,
+  "details" :
+  {
+     "id":1,
      "eventName":"Politehnica Festival",
      "date":"2019-07-13 10:00 pm",
      "location":"Politehnica University",
